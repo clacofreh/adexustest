@@ -4,7 +4,7 @@ import { HomeScreen, ProfileScreen } from '../screens';
 
 export type LoggedInStackParams = {
   Home: undefined;
-  Auth: undefined;
+  Profile: undefined;
 };
 
 const LoggedInNavigation = createNativeStackNavigator<LoggedInStackParams>();
