@@ -11,4 +11,4 @@ npm install or yarn install
 
 ## Available Scripts
 
-### `yarn start` `npm run android`
+### `yarn android` `npm run android`
